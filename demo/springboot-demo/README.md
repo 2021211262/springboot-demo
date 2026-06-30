@@ -3,7 +3,7 @@
 SpringBoot 练手项目，涵盖 MVC、依赖注入、事务、AOP、拦截器、数据库、Redis、RocketMQ 等核心知识点。
 
 ## 项目结构
-
+```
 springboot-demo/
 ├── pom.xml                                          # Maven 依赖配置
 ├── src/main/
@@ -60,7 +60,7 @@ springboot-demo/
         └── mapper/
             ├── ProductMapper.xml                    # 商品 SQL
             └── OrderMapper.xml                      # 订单 SQL
-
+```
 
 ## 功能设计
 
